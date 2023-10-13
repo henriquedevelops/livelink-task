@@ -1,0 +1,23 @@
+.creatorCard {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+  width: 320px;
+}
+
+.image {
+  border-radius: 100px;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.nameAndTitleWrapper {
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
