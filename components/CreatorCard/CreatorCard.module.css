@@ -14,10 +14,11 @@
   height: 3.5rem;
 }
 
-.nameAndTitleWrapper {
-}
-
 .name {
   font-weight: bold;
   margin-bottom: 0.2rem;
+}
+
+.textTitle {
+  margin-bottom: 13px;
 }

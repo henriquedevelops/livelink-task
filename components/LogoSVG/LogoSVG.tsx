@@ -1,14 +1,11 @@
 import React, { FC } from 'react'
+import styles from './LogoSVG.module.css'
 
-interface Props {
-  className: string
-}
-
-const LogoSVG: FC<Props> = ({ className }) => {
+const LogoSVG: FC = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      className={className}
+      className={styles.logoSVG}
       viewBox="0 0 112.998 40.782"
     >
       <g

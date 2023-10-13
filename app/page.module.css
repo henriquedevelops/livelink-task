@@ -1,16 +1,8 @@
 .main {
-  background-color: #fbefe7;
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 100vh;
   padding: 3rem;
-}
-
-.logoSVG {
-  max-width: 10rem;
-  height: fit-content;
-  margin-bottom: 2rem;
 }
 
 .creatorCardsWrapper {
