@@ -6,6 +6,7 @@
   display: flex;
   gap: 1rem;
   width: 320px;
+  cursor: pointer;
 }
 
 .image {

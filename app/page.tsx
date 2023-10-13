@@ -17,6 +17,7 @@ const Home: FC = () => {
             imageAlt={creator.imageAlt}
             textTitle={creator.textTitle}
             text={creator.text}
+            key={creator.id}
           />
         ))}
       </div>

@@ -44,8 +44,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4666.07 -4728.594)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_253_-_Outline"
@@ -53,7 +53,7 @@ const LogoSVG: FC = () => {
                   d="M-4669.09,4719.149a.557.557,0,0,1,.277.074l6.066,3.5a.555.555,0,0,1,.278.48.556.556,0,0,1-.276.48l-5.87,3.412a.556.556,0,0,1-.557,0l-6.066-3.5a.556.556,0,0,1-.277-.48.555.555,0,0,1,.276-.481l5.87-3.411A.55.55,0,0,1-4669.09,4719.149Zm4.958,4.059-4.958-2.862-4.763,2.768,4.957,2.862Z"
                   transform="translate(4675.515 -4719.149)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -68,8 +68,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4557.186 -4791.668)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_254_-_Outline"
@@ -77,7 +77,7 @@ const LogoSVG: FC = () => {
                   d="M-4560.185,4782.224a.558.558,0,0,1,.277.074.557.557,0,0,1,.277.483l-.021,7.106a.554.554,0,0,1-.276.478l-5.87,3.412a.557.557,0,0,1-.557,0,.555.555,0,0,1-.277-.482l.02-7.106a.557.557,0,0,1,.276-.479l5.87-3.411A.551.551,0,0,1-4560.185,4782.224Zm-.575,7.341.017-5.82-4.758,2.765-.017,5.82Z"
                   transform="translate(4566.63 -4782.224)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -92,8 +92,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4777.816 -4440.426)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_255_-_Outline"
@@ -101,7 +101,7 @@ const LogoSVG: FC = () => {
                   d="M-4786.64,4430.981a.538.538,0,0,1,.277.076l6.184,3.616a.563.563,0,0,1,.278.489l-.044,15.719,5.787,3.385a.562.562,0,0,1,.278.489l-.02,7.2a.566.566,0,0,1-.279.486.548.548,0,0,1-.554,0l-6.066-3.547-6.182-3.569a.565.565,0,0,1-.28-.49l.065-23.29a.564.564,0,0,1,.278-.485A.548.548,0,0,1-4786.64,4430.981Zm5.628,4.5-5.076-2.968-.062,21.99,5.9,3.409,5.238,3.063.017-5.9-5.787-3.384a.563.563,0,0,1-.278-.489Z"
                   transform="translate(4787.261 -4430.981)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -116,8 +116,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4666.07 -4443.294)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_256_-_Outline"
@@ -125,7 +125,7 @@ const LogoSVG: FC = () => {
                   d="M-4669.045,4433.849a.553.553,0,0,1,.278.075.554.554,0,0,1,.278.482l-.045,15.841a.556.556,0,0,1-.277.479l-5.87,3.411a.556.556,0,0,1-.557,0,.555.555,0,0,1-.277-.482l.045-15.841a.554.554,0,0,1,.276-.479l5.87-3.411A.552.552,0,0,1-4669.045,4433.849Zm-.6,16.076.041-14.555-4.758,2.765-.041,14.554Z"
                   transform="translate(4675.515 -4433.849)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -140,8 +140,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4776.642 -4378.989)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_257_-_Outline"
@@ -149,7 +149,7 @@ const LogoSVG: FC = () => {
                   d="M-4779.662,4369.544a.558.558,0,0,1,.277.074l6.184,3.571a.554.554,0,0,1,.278.48.554.554,0,0,1-.276.48l-5.87,3.411a.555.555,0,0,1-.557,0l-6.185-3.57a.554.554,0,0,1-.277-.48.555.555,0,0,1,.276-.481l5.87-3.411A.553.553,0,0,1-4779.662,4369.544Zm5.076,4.127-5.075-2.93-4.763,2.768,5.076,2.931Z"
                   transform="translate(4786.087 -4369.544)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
             </g>
@@ -174,8 +174,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4838.07 -4824.594)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_258_-_Outline"
@@ -183,7 +183,7 @@ const LogoSVG: FC = () => {
                   d="M-4841.09,4815.149a.553.553,0,0,1,.277.075l6.066,3.5a.556.556,0,0,1,.277.48.555.555,0,0,1-.276.48l-5.87,3.412a.556.556,0,0,1-.557,0l-6.065-3.5a.556.556,0,0,1-.278-.48.554.554,0,0,1,.277-.481l5.869-3.411A.554.554,0,0,1-4841.09,4815.149Zm4.958,4.059-4.957-2.862-4.763,2.768,4.958,2.862Z"
                   transform="translate(4847.515 -4815.149)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -198,8 +198,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4729.186 -4887.668)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_259_-_Outline"
@@ -207,7 +207,7 @@ const LogoSVG: FC = () => {
                   d="M-4732.186,4878.224a.552.552,0,0,1,.278.075.554.554,0,0,1,.278.482l-.02,7.106a.557.557,0,0,1-.276.479l-5.87,3.411a.555.555,0,0,1-.556,0,.556.556,0,0,1-.278-.483l.021-7.106a.553.553,0,0,1,.276-.479l5.87-3.411A.555.555,0,0,1-4732.186,4878.224Zm-.574,7.341.017-5.82-4.758,2.765-.017,5.819Z"
                   transform="translate(4738.63 -4878.224)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -222,8 +222,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4949.816 -4536.425)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_260_-_Outline"
@@ -231,7 +231,7 @@ const LogoSVG: FC = () => {
                   d="M-4958.641,4526.981a.555.555,0,0,1,.278.075l6.184,3.617a.563.563,0,0,1,.278.488l-.044,15.72,5.788,3.384a.566.566,0,0,1,.277.489l-.021,7.2a.564.564,0,0,1-.278.486.551.551,0,0,1-.555,0l-6.065-3.547-6.182-3.569a.566.566,0,0,1-.28-.49l.065-23.289a.562.562,0,0,1,.278-.486A.548.548,0,0,1-4958.641,4526.981Zm5.628,4.5-5.076-2.969-.062,21.99,5.9,3.408,5.238,3.063.017-5.9-5.787-3.385a.564.564,0,0,1-.278-.488Z"
                   transform="translate(4959.261 -4526.981)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -246,8 +246,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4838.07 -4539.294)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_261_-_Outline"
@@ -255,7 +255,7 @@ const LogoSVG: FC = () => {
                   d="M-4841.045,4529.849a.553.553,0,0,1,.277.075.553.553,0,0,1,.277.482l-.044,15.841a.557.557,0,0,1-.277.479l-5.87,3.411a.553.553,0,0,1-.557,0,.554.554,0,0,1-.278-.482l.045-15.841a.557.557,0,0,1,.276-.479l5.87-3.411A.554.554,0,0,1-4841.045,4529.849Zm-.6,16.076.042-14.554-4.757,2.765-.042,14.554Z"
                   transform="translate(4847.515 -4529.849)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
               <g
@@ -270,8 +270,8 @@ const LogoSVG: FC = () => {
                   transform="translate(4948.642 -4474.989)"
                   fill="#fdefe6"
                   stroke="#000"
-                  stroke-linejoin="round"
-                  stroke-width="0.5"
+                  strokeLinejoin="round"
+                  strokeWidth="0.5"
                 />
                 <path
                   id="Path_262_-_Outline"
@@ -279,7 +279,7 @@ const LogoSVG: FC = () => {
                   d="M-4951.662,4465.544a.557.557,0,0,1,.277.074l6.185,3.57a.558.558,0,0,1,.278.48.557.557,0,0,1-.276.481l-5.87,3.411a.553.553,0,0,1-.556,0l-6.185-3.57a.555.555,0,0,1-.278-.48.556.556,0,0,1,.276-.481l5.87-3.411A.551.551,0,0,1-4951.662,4465.544Zm5.076,4.127-5.075-2.93-4.763,2.768,5.075,2.931Z"
                   transform="translate(4958.087 -4465.544)"
                   stroke="#000"
-                  stroke-width="0.5"
+                  strokeWidth="0.5"
                 />
               </g>
             </g>
