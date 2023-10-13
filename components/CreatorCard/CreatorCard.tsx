@@ -2,6 +2,7 @@
 
 import React, { FC, useState } from 'react'
 import styles from './CreatorCard.module.css'
+import AnimateHeight from 'react-animate-height'
 
 interface Props {
   imageSrc: string
@@ -18,18 +19,18 @@ const CreatorCard: FC<Props> = ({
   textTitle,
   text,
 }) => {
-  const [isExpanded, setIsExpanded] = useState(false)
+  const [height, setHeight] = useState<number | 'auto'>(0)
 
   return (
     <div
       className={styles.creatorCard}
-      onClick={() => setIsExpanded(!isExpanded)}
+      onClick={() => setHeight(height === 0 ? 'auto' : 0)}
     >
       <img className={styles.image} src={imageSrc} alt={imageAlt} />
       <div>
         <p className={styles.name}>{creatorName}</p>
         <p className={styles.textTitle}>{textTitle}</p>
-        {isExpanded && <p>{text}</p>}
+        <AnimateHeight height={height}>{text}</AnimateHeight>
       </div>
     </div>
   )
